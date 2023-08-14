@@ -5,7 +5,10 @@ Description
 The "I Am Rich" app is a minimalist app that serves as a status symbol. It displays a captivating gemstone image and the message "I Am Rich" to emphasize exclusivity and luxury.
 
 Screenshot
+
+
 ![I AM RICH](https://github.com/ENGR-WAJAHAT-AHMED/Flutter-I_am_Rich-App/assets/122207170/39957c0b-c88d-410b-a394-045751e347ae)
+
 
 Getting Started
 Follow these steps to run the app on your device:
